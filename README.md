@@ -1,2 +1,2 @@
 # Mini-Project
-these are teh mini project which i executed forcollege assignments 
+these are the mini project which i executed for college assignments 
