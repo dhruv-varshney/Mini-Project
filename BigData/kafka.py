@@ -1,10 +1,10 @@
 import tweepy
 import time
 from kafka import KafkaConsumer, KafkaProducer
-consumer_key = "b5fGAXITNPyLWoZ9glyDhebuK"
-consumer_secret = "AITERoZOQGwq5ZUbkWsl6iF1vqD18vNp2dixSttFzFhMmxV5mb"
-access_token = "1355447968292192256-PIX8dBwtAp4dMGgTZxbHCSzUFVXk4S"
-access_token_secret = "ar4iAu2dncskUPTrlaXnBSTzKHNhf38dTNzbKmacuYIJH"
+consumer_key = "xxxx"
+consumer_secret = "xxxxx"
+access_token = "xxxxx"
+access_token_secret = "xxx"
 auth = tweepy.OAuthHandler(consumer_key,consumer_secret)
 auth.set_access_token(access_token,access_token_secret)
 api = tweepy.API(auth)
